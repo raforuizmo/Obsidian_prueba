@@ -24,6 +24,7 @@ Esta es la presentación del trabajo grupal del Módulo 1 Global Manufacturing E
 * Daniela Vargas Doria Medina <danidmvargas@gmail.com>
 * Carmrn Rosa Arce Lagos <carmenrosa2017@gmail.com>
 * Cecilia Andrea Espinoza Paredes <ceciliaandreaespinozaparedes@gmail.com>
+* Rafael Roberto Ruiz Morales <rruiz@ucb.edu.bo>
   
 
-Última modificación Diego 202509152135
+Última modificación Rafael 202509152201
